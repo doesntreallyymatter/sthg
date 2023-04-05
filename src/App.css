@@ -203,3 +203,11 @@ button[type="submit"]:hover {
   border-color: #4d90fe;
   box-shadow: 0 0 0 0.1rem rgba(77, 144, 254, 0.25);
 }
+
+.table-btns-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: red;
+}

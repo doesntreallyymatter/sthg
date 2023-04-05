@@ -127,6 +127,7 @@ const UserTable = () => {
               <td>{user.email}</td>
               <td>{user.address}</td>
               <td>
+                <div className="table-btns-container"></div>
                 <button className="edit-btn" onClick={() => handleEdit(user)}>Edit</button>
                 <button  className="delete-btn" onClick={() => handleDelete(user.id)}>Delete</button>
               </td>
