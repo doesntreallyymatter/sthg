@@ -56,6 +56,7 @@ const UserTable = () => {
                 id="firstName"
                 value={firstName}
                 onChange={(e) => setFirstName(e.target.value)}
+                className="modal-input"
               />
             </div>
             <div>
@@ -65,6 +66,8 @@ const UserTable = () => {
                 id="lastName"
                 value={lastName}
                 onChange={(e) => setLastName(e.target.value)}
+                className="modal-input"
+
               />
             </div>
             <div>
@@ -73,6 +76,7 @@ const UserTable = () => {
                 type="number"
                 id="age"
                 value={age}
+                className="modal-input"
                 onChange={(e) => setAge(e.target.value)}
               />
             </div>
@@ -82,6 +86,7 @@ const UserTable = () => {
                 type="email"
                 id="email"
                 value={email}
+                className="modal-input"
                 onChange={(e) => setEmail(e.target.value)}
               />
             </div>
@@ -91,6 +96,7 @@ const UserTable = () => {
                 type="text"
                 id="address"
                 value={address}
+                className="modal-input"
                 onChange={(e) => setAddress(e.target.value)}
               />
             </div>

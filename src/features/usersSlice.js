@@ -15,13 +15,13 @@ const usersSlice = createSlice({
     deleteUser: (state, action) => {
       state.users = state.users.filter((user) => user.id !== action.payload);
     },
-    editUser: (state, action) => {
-      const { id, firstName, lastName, age, email, address } = action.payload;
-      const index = state.users.findIndex((user) => user.id === id);
-      if (index !== -1) {
-        state.users[index] = { id, firstName, lastName, age, email, address };
-      }
-    },
+    // editUser: (state, action) => {
+    //   const { id, firstName, lastName, age, email, address } = action.payload;
+    //   const index = state.users.findIndex((user) => user.id === id);
+    //   if (index !== -1) {
+    //     state.users[index] = { id, firstName, lastName, age, email, address };
+    //   }
+    // },
     updateUser: (state, action) => {
       const { id, firstName, lastName, age, email, address } = action.payload;
       const index = state.users.findIndex((user) => user.id === id);
