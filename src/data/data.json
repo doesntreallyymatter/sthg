@@ -1,0 +1,84 @@
+{
+	"users": [
+		{
+			"id": "1",
+			"firstName": "Arthur",
+			"lastName": "Cruz",
+			"age": "20",
+			"address": "Grand Rapids, 4899 Bee Street",
+			"email": "pelle266@lordmoha.cloud"
+		},
+		{
+			"id": "2",
+			"firstName": "Melanie",
+			"lastName": "Roach",
+			"age": "25",
+			"address": "Westborough, 4935 Smith Street",
+			"email": "superlimtim@seviqt.ga"
+		},
+		{
+			"id": "3",
+			"firstName": "Zainab",
+			"lastName": "Conley",
+			"age": "31",
+			"address": "Binghamton, 1587 Hinkle Deegan Lake Road",
+			"email": "janejust@stanastroo.ml"
+		},
+		{
+			"id": "4",
+			"firstName": "Edna",
+			"lastName": "Mitchell",
+			"age": "23",
+			"address": "Bloomfield Township, 2639 D Street",
+			"email": "kuznetsovamd@scurmail.com"
+		},
+		{
+			"id": "5",
+			"firstName": "Samantha",
+			"lastName": "Rhodes",
+			"age": "28",
+			"address": "Marquette, 4758 Pinewood Avenue",
+			"email": "chibble1@pickuplanet.com"
+		},
+		{
+			"id": "6",
+			"firstName": "Tiana",
+			"lastName": "Rivers",
+			"age": "19",
+			"address": "Houston, 4824 Bird Spring Lane",
+			"email": "gillila8@acidlsdshop.com"
+		},
+		{
+			"id": "7",
+			"firstName": "Tallulah ",
+			"lastName": "Barrera",
+			"age": "37",
+			"address": "Minneapolis, 3059 Brighton Circle Road",
+			"email": "syhoruka@big0001mine.cf"
+		},
+		{
+			"id": "8",
+			"firstName": "Ronan",
+			"lastName": "Salazar",
+			"age": "27",
+			"address": "Boston, 114 Romano Street",
+			"email": "hairy5@googl.win"
+		},
+		{
+			"id": "9",
+			"firstName": "Khadija",
+			"lastName": "Jackson",
+			"age": "48",
+			"address": "Los Angeles, 3334 Southside Lane",
+			"email": "jolech@lordmoha.cloud"
+		},
+		{
+			"id": "10",
+			"firstName": "Jeremy",
+			"lastName": "Macias",
+			"age": "51",
+			"address": "Hanover, 4729 Nicholas Street",
+			"email": "cgp47@justademo.cf"
+		}
+	]
+}
